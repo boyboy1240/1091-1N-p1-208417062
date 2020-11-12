@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.photo {
+  width: 500px;
+  height: 250px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  
+}
+
+
+.contenta {
+  width: 500px; 
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 100px;
+
+}
+.contentb {
+  width: 500px; 
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+hr{
+  margin: 50px;
+  border: none;
+  border-bottom: solid 4px gray;
+  width: 50%;
+  margin-left: 26%;
+}
+
+h1 {
+  margin-left: 30px;
+  margin-top: 100px;
+}
+
+p {
+  margin-left: 55px;
+  margin-top: 20px;
+}
+
+.language {
+  float:left;
+  margin: 50px;
+}
+.frame {
+  float:left;
+  margin: 50px;
+  margin-left: 200px;
+}
+.git {
+  float:left;
+  margin: 50px;
+  margin-left: 200px;
+}
+
